@@ -1,6 +1,6 @@
 # Smart Email
 
-A Java \ Spring Boot application built with Maven. This repository includes the Maven Wrapper (`mvnw`, `mvnw.cmd`) so you can build and run the project without installing Maven globally.
+A Java Spring Boot application built with Maven. This repository includes the Maven Wrapper (`mvnw`, `mvnw.cmd`) so you can build and run the project without installing Maven globally.
 
 ## Requirements
 
@@ -10,6 +10,7 @@ A Java \ Spring Boot application built with Maven. This repository includes the 
 
 
 <img width="1368" height="782" alt="Screenshot from 2026-01-18 16-02-33" src="https://github.com/user-attachments/assets/bf7d7b4e-22c6-42f5-a0bd-accaa0d45588" />
+
 
 
 ## Quick start
