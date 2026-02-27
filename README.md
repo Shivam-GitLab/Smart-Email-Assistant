@@ -1,4 +1,4 @@
-# Smart Email
+# Smart Email Assistant
 
 A Java Spring Boot application built with Maven. This repository includes the Maven Wrapper (`mvnw`, `mvnw.cmd`) so you can build and run the project without installing Maven globally.
 
