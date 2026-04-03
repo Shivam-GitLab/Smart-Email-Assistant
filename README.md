@@ -12,7 +12,6 @@ A Java Spring Boot application built with Maven. This repository includes the Ma
 <img width="1368" height="782" alt="Screenshot from 2026-01-18 16-02-33" src="https://github.com/user-attachments/assets/bf7d7b4e-22c6-42f5-a0bd-accaa0d45588" />
 
 
-
 ## Quick start
 
 Clone the repo and build:
