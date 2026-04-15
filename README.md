@@ -4,7 +4,7 @@ A Java Spring Boot application built with Maven. This repository includes the Ma
 
 ## Requirements
 
-- Java 17\+ (recommended)
+- Java 17+ (recommended)
 - Git
 - (Optional) Docker
 
