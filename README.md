@@ -1,8 +1,9 @@
-# Smart Email Assistant =>
+# Smart Email Assistant
 
 A **Java Spring Boot application** that uses **OpenAI's API** to intelligently generate professional email replies. This tool analyzes incoming emails and creates contextually appropriate responses based on specified tone and content.
 
 ![Smart Email Assistant](https://github.com/user-attachments/assets/bf7d7b4e-22c6-42f5-a0bd-accaa0d45588)
+
 
 ## Features
 
